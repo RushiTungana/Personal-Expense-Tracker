@@ -140,7 +140,7 @@ Over budget by: 6190 rupees
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Rushi Tungana
 
 **Project:** Personal Expense Tracker
 
