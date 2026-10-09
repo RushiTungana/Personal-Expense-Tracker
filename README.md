@@ -1,4 +1,4 @@
-# Personal-Expense-Tracker
+
 # 💰 Personal Expense Tracker
 
 A console-based **Personal Expense Tracker** developed using Core Java as part of the Core Java Module 1 project. The application helps users record daily expenses, manage a budget, view spending summaries, and generate reports.
