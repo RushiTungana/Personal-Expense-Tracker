@@ -1,0 +1,4 @@
+1|2026-06-27|Food|600|ONLINE|for Cake
+2|2026-06-27|Travel|190|CASH|travel to Vizag
+3|2026-09-28|Study|400|ONLINE|Aptitude Practice Book
+4|2026-01-10|Other|20000|ONLINE|Room Rent

@@ -1,0 +1,19 @@
+PERSONAL EXPENSE TRACKER REPORT
+===============================
+
+SPENDING SUMMARY
+================
+Expense count: 4
+Total spending: 21190 rupees
+Budget: 30000 rupees
+Remaining: 8810 rupees
+Food: 600 | Travel: 190
+Study: 400 | Other: 20000
+Categories used: 4
+
+EXPENSE HISTORY
+===============
+ID: 1 | Date: 2026-06-27 | Category: Food | Amount: 600 | Payment: ONLINE | Note: for Cake
+ID: 2 | Date: 2026-06-27 | Category: Travel | Amount: 190 | Payment: CASH | Note: travel to Vizag
+ID: 3 | Date: 2026-09-28 | Category: Study | Amount: 400 | Payment: ONLINE | Note: Aptitude Practice Book
+ID: 4 | Date: 2026-01-10 | Category: Other | Amount: 20000 | Payment: ONLINE | Note: Room Rent
